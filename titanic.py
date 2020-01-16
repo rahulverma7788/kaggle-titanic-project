@@ -148,6 +148,7 @@ x_test.info()
 
 
 x_test.info()
+x_train.info()
 
 
 # In[20]:
